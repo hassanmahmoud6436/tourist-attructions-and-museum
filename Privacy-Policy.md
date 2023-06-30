@@ -1,7 +1,7 @@
 Privacy Policy for "Tourist Attractions And Museums" Mobile App
 ---------------------------------------------------------------
 
-## Effective Date: [6/10/2023]
+## Effective Date: [7/1/2023]
 
 At "Tourist Attractions And Museums," we are committed to protecting your privacy and ensuring the security of your personal information. This Privacy Policy outlines how we collect, use, and safeguard your data when you use our mobile app. By using the app, you consent to the practices described in this policy.
 
